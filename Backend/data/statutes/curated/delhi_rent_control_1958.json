@@ -1,0 +1,111 @@
+{
+  "act_id": "delhi-rent-control-1958",
+  "act_name": "Delhi Rent Control Act, 1958",
+  "jurisdiction": "Delhi",
+  "year": 1958,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1380",
+  "repealed": false,
+  "summary": "Governs landlord-tenant relations in Delhi, including grounds and procedure for eviction, rent standardisation, and deposit/receipt disputes; a tenant facing eviction or a landlord seeking possession meets this act.",
+  "sections": [
+    {
+      "citation_id": "DRC-1958-S.14",
+      "section_number": "14",
+      "section_title": "Protection of tenant against eviction",
+      "text": "Notwithstanding anything to the contrary contained in any other law or contract, no order or decree for the recovery of possession of any premises shall be made by any court or Controller in favour of the landlord against a tenant except on one or more of the grounds specified in sub-section (1), including: (a) that the tenant has neither paid nor tendered the whole of the arrears of rent legally recoverable from him within two months of the date on which a notice of demand for the arrears of rent has been served on him by the landlord; (b) that the tenant has, on or after the 9th day of June, 1952, sublet, assigned or otherwise parted with possession of the whole or any part of the premises without obtaining the consent in writing of the landlord; (e) that the premises let for residential purposes are required bona fide by the landlord for occupation as a residence for himself or for any member of his family dependent on him.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["eviction", "tenant protection", "arrears of rent", "bona fide requirement", "subletting"]
+    },
+    {
+      "citation_id": "DRC-1958-S.14(2)",
+      "section_number": "14(2)",
+      "section_title": "Tenant's right to avoid eviction by depositing arrears",
+      "text": "No order for the recovery of possession of any premises shall be made on the ground specified in clause (a) of the proviso to sub-section (1) if the tenant makes payment or deposit as required by section 15.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["arrears", "deposit", "protection from eviction", "rent"]
+    },
+    {
+      "citation_id": "DRC-1958-S.15",
+      "section_number": "15",
+      "section_title": "Deposit of rent by tenant when landlord refuses to accept",
+      "text": "Where a tenant desires to deposit rent under this Act, he shall deposit it with the Controller, in the prescribed manner. On the first hearing of an application for eviction on the ground of non-payment of rent, the Controller shall, unless the tenant has already deposited or paid the arrears, ascertain the amount of rent due and direct the tenant to deposit such amount or pay to the landlord within such time as the Controller may fix.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["deposit of rent", "controller", "refusal to accept rent", "arrears"]
+    },
+    {
+      "citation_id": "DRC-1958-S.4",
+      "section_number": "4",
+      "section_title": "Standard rent",
+      "text": "Except where rent is liable to periodical increment by virtue of an agreement entered into before the 1st day of January, 1939, no tenant shall, notwithstanding any agreement to the contrary, be liable to pay to his landlord for the occupation of any premises any amount in excess of the standard rent, unless it is agreed between the landlord and tenant that the tenant shall be liable to pay in addition to rent the amounts of any of the taxes.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["standard rent", "rent increase", "excess rent"]
+    },
+    {
+      "citation_id": "DRC-1958-S.6",
+      "section_number": "6",
+      "section_title": "Basis for determination of standard rent",
+      "text": "The standard rent in relation to any premises shall be the rent calculated on the basis, and having regard to the classification, of premises specified in this section, having regard to the date of construction of the premises and the rateable value or cost of construction and cost of land.",
+      "text_is_paraphrase": true,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["standard rent calculation", "rateable value", "classification of premises"]
+    },
+    {
+      "citation_id": "DRC-1958-S.7",
+      "section_number": "7",
+      "section_title": "Restriction on charging premium etc. in addition to rent",
+      "text": "No person shall, in consideration of the grant, renewal or continuance of a tenancy of any premises, claim or receive the payment of any sum as premium or claim or receive any rent in excess of the standard rent, or claim or receive any consideration other than rent for the grant, renewal or continuance of the tenancy.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["premium", "pagdi", "excess rent", "illegal consideration"]
+    },
+    {
+      "citation_id": "DRC-1958-S.9",
+      "section_number": "9",
+      "section_title": "Landlord to give receipt for rent paid",
+      "text": "Every landlord who receives any payment towards rent in respect of any premises shall give the tenant a written receipt for the amount paid to him, duly signed by him or his authorised agent, and shall, if so required by the tenant, give a separate receipt in respect of any amount paid in respect of any charges for electricity, water or any other service.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["rent receipt", "landlord obligation", "payment proof"]
+    },
+    {
+      "citation_id": "DRC-1958-S.19",
+      "section_number": "19",
+      "section_title": "Right to recover immediate possession of premises to accrue to certain persons",
+      "text": "Any person who, being in occupation of any residential premises allotted to him by the Central Government or a local authority, is required by general or special order to vacate such residential accommodation, on the ground that he owns residential accommodation of his own, shall be entitled to recover immediate possession of any premises let by him, notwithstanding anything contained in section 14.",
+      "text_is_paraphrase": true,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["government allottee", "immediate possession", "own accommodation"]
+    },
+    {
+      "citation_id": "DRC-1958-S.25B",
+      "section_number": "25B",
+      "section_title": "Special procedure for disposal of applications for eviction on ground of bona fide requirement",
+      "text": "Every application by a landlord for recovery of possession of any premises on the ground specified in clause (e) of the proviso to sub-section (1) of section 14, shall be dealt with in accordance with the summary procedure specified in this section. The tenant shall not contest the prayer for eviction unless he files an affidavit stating the grounds on which he seeks to contest the application for eviction, and obtains leave from the Controller; leave to contest shall be granted if the affidavit discloses such facts as would disentitle the landlord from obtaining an order for eviction.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["summary procedure", "bona fide requirement", "leave to contest", "affidavit"]
+    },
+    {
+      "citation_id": "DRC-1958-S.50",
+      "section_number": "50",
+      "section_title": "Bar of jurisdiction of civil courts",
+      "text": "Notwithstanding anything contained in any other law, no civil court shall have jurisdiction to entertain any suit or proceeding in so far as it relates to the fixation of standard rent or the eviction of any tenant, in respect of which any Controller has jurisdiction under this Act.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["jurisdiction", "civil court bar", "rent controller"]
+    }
+  ]
+}

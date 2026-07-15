@@ -1,0 +1,81 @@
+{
+  "act_id": "motor-vehicles-1988",
+  "act_name": "Motor Vehicles Act, 1988",
+  "jurisdiction": "India",
+  "year": 1988,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/7477",
+  "repealed": false,
+  "summary": "Governs road accident compensation claims, mandatory third-party insurance, and the driver's duties after an accident; a person injured in or affected by a motor accident meets this act.",
+  "sections": [
+    {
+      "citation_id": "MVA-1988-S.166(1)",
+      "section_number": "166(1)",
+      "section_title": "Who may apply for compensation",
+      "text": "An application for compensation arising out of an accident of the nature specified in sub-section (1) of section 165 may be made (a) by the person who has sustained the injury; or (b) by the owner of the property; or (c) where death has resulted from the accident, by all or any of the legal representatives of the deceased; or (d) by any agent duly authorised by the person injured or all or any of the legal representatives of the deceased, as the case may be.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["compensation claim", "accident", "legal representatives", "claims tribunal"]
+    },
+    {
+      "citation_id": "MVA-1988-S.166(2)",
+      "section_number": "166(2)",
+      "section_title": "Jurisdiction for filing a compensation claim",
+      "text": "Every application shall be made, at the option of the claimant, either to the Claims Tribunal having jurisdiction over the area in which the accident occurred, or to the Claims Tribunal within the local limits of whose jurisdiction the claimant resides or carries on business, or within the local limits of whose jurisdiction the defendant resides, and shall be in such form and shall contain such particulars as may be prescribed.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["jurisdiction", "claims tribunal", "where to file", "compensation application"]
+    },
+    {
+      "citation_id": "MVA-1988-S.147(1)",
+      "section_number": "147(1)",
+      "section_title": "Requirements of a valid third-party insurance policy",
+      "text": "A policy of insurance issued under this Chapter must be a policy issued by a person who is an authorised insurer, and must insure the person or classes of persons specified in the policy against any liability incurred in respect of death of or bodily injury to any person, including an owner of goods or his authorised representative carried in the vehicle, or damage to any property of a third party caused by or arising out of the use of the vehicle in a public place, and against the death of or bodily injury to any passenger of a public service vehicle caused by or arising out of the use of the vehicle in a public place.",
+      "text_is_paraphrase": true,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["third-party insurance", "authorised insurer", "requirements of policy", "public place"]
+    },
+    {
+      "citation_id": "MVA-1988-S.147(2)",
+      "section_number": "147(2)",
+      "section_title": "Limits of insurer's liability",
+      "text": "A policy of insurance shall cover any liability incurred in respect of any one accident up to the amount of liability incurred, save that in respect of damage to any property of a third party, the policy need cover the insurer's liability only up to the limit prescribed under this Chapter; and a policy shall be of no effect for the purposes of this Chapter unless and until there is issued by the insurer a certificate of insurance in the prescribed form containing the prescribed particulars.",
+      "text_is_paraphrase": true,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["limits of liability", "certificate of insurance", "property damage cap"]
+    },
+    {
+      "citation_id": "MVA-1988-S.134(a)",
+      "section_number": "134(a)",
+      "section_title": "Duty to secure medical attention after an accident",
+      "text": "When any person is injured or any property of a third party is damaged as a result of an accident in which a motor vehicle is involved, the driver of the vehicle or other person in charge of the vehicle shall, unless it is not practicable to do so on account of mob fury or any other reason beyond his control, take all reasonable steps to secure medical attention for the injured person by conveying him to the nearest medical practitioner or hospital, and it shall be the duty of every registered medical practitioner or the doctor on duty in the hospital to immediately attend to the injured person and render medical aid or treatment without waiting for procedural formalities, unless the injured person or his guardian desires otherwise.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["duty of driver", "medical attention", "hospital", "accident victim"]
+    },
+    {
+      "citation_id": "MVA-1988-S.134(b)",
+      "section_number": "134(b)",
+      "section_title": "Duty to report the accident to police",
+      "text": "The driver of the vehicle or other person in charge of the vehicle shall give on demand by a police officer any information required by him, or, if no police officer is present, shall report the circumstances of the occurrence at the nearest police station as soon as possible, and in any case within twenty-four hours of the occurrence.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["duty of driver", "police report", "accident reporting", "twenty-four hours"]
+    },
+    {
+      "citation_id": "MVA-1988-S.134(c)",
+      "section_number": "134(c)",
+      "section_title": "Duty to inform the insurer",
+      "text": "The driver of the vehicle or other person in charge of the vehicle shall give the following information in writing to the insurer who has issued the certificate of insurance, about the occurrence of the accident: (i) insurance policy number and period of its validity; (ii) date, time and place of accident; (iii) particulars of the persons injured or killed in the accident; (iv) name of the driver and the particulars of his driving licence. Explanation - For the purposes of this section, the expression \"driver\" includes the owner of the vehicle.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["duty of driver", "insurer notification", "accident particulars"]
+    }
+  ]
+}

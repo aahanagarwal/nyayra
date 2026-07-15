@@ -1,0 +1,101 @@
+{
+  "act_id": "consumer-protection-2019",
+  "act_name": "Consumer Protection Act, 2019",
+  "jurisdiction": "India",
+  "year": 2019,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/15256",
+  "repealed": false,
+  "summary": "Protects consumer rights against defective goods, deficient services and unfair trade practices, and sets out where and how a consumer complaint may be filed; a buyer of goods or services who has been cheated or harmed meets this act.",
+  "sections": [
+    {
+      "citation_id": "CPA-2019-S.2(7)",
+      "section_number": "2(7)",
+      "section_title": "Definition of consumer",
+      "text": "\"consumer\" means any person who (i) buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment, when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose; or (ii) hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any beneficiary of such service other than the person who hires or avails of the services for consideration paid or promised, or partly paid and partly promised, or under any system of deferred payment, when such services are availed of with the approval of the first mentioned person, but does not include a person who avails of such service for any commercial purpose. Explanation: \"commercial purpose\" does not include use by a person of goods bought and used by him exclusively for the purpose of earning his livelihood, by means of self-employment.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["consumer", "definition", "goods", "services", "commercial purpose", "self-employment"]
+    },
+    {
+      "citation_id": "CPA-2019-S.2(11)",
+      "section_number": "2(11)",
+      "section_title": "Definition of deficiency",
+      "text": "\"deficiency\" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service and includes any act of negligence or omission or commission by such person which causes loss or injury to the consumer and deliberate withholding of relevant information by such person to the consumer.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["deficiency", "service defect", "negligence", "withholding information"]
+    },
+    {
+      "citation_id": "CPA-2019-S.2(42)",
+      "section_number": "2(42)",
+      "section_title": "Definition of unfair trade practice",
+      "text": "\"unfair trade practice\" means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice, including making false or misleading statements about the standard, quality, quantity or grade of goods or services, false representations regarding sponsorship or approval, and offering gifts or prizes with the intention of not providing them as offered.",
+      "text_is_paraphrase": true,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["unfair trade practice", "false representation", "misleading advertisement"]
+    },
+    {
+      "citation_id": "CPA-2019-S.34",
+      "section_number": "34",
+      "section_title": "Jurisdiction of District Commission",
+      "text": "The District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees. A complaint shall be instituted in a District Commission within the local limits of whose jurisdiction the opposite party resides or carries on business, or the branch office is located, or the complainant resides or personally works for gain, or the cause of action, wholly or in part, arises.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["district commission", "jurisdiction", "pecuniary limit", "where to file"]
+    },
+    {
+      "citation_id": "CPA-2019-S.35",
+      "section_number": "35",
+      "section_title": "Manner in which complaint shall be made",
+      "text": "A complaint may be filed with the District Commission by the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided; any recognised consumer association; the Central Government, State Government or Union territory Administration; one or more consumers, where there are numerous consumers having the same interest; or the legal heir or representative of a deceased consumer. Every complaint filed shall be accompanied by such fee as may be prescribed.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["complaint", "how to file", "consumer association", "class complaint"]
+    },
+    {
+      "citation_id": "CPA-2019-S.38",
+      "section_number": "38",
+      "section_title": "Procedure on admission of complaint",
+      "text": "On admission of a complaint, the District Commission may, by order, refer a copy of the complaint to the opposite party directing him to give his version within thirty days, extendable by not more than fifteen days. If the opposite party denies the allegations, the District Commission shall proceed to settle the dispute on the basis of evidence brought to its notice. Where the complainant alleges a defect in goods which cannot be determined without proper analysis or test, the Commission may obtain a sample and refer it to an appropriate laboratory.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["procedure", "admission of complaint", "opposite party", "laboratory analysis"]
+    },
+    {
+      "citation_id": "CPA-2019-S.69",
+      "section_number": "69",
+      "section_title": "Limitation period",
+      "text": "The District Commission, the State Commission or the National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen. A complaint may be entertained after the period specified if the complainant satisfies the Commission that he had sufficient cause for not filing the complaint within such period, and reasons for condoning the delay are recorded.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["limitation period", "two years", "condonation of delay", "cause of action"]
+    },
+    {
+      "citation_id": "CPA-2019-S.83",
+      "section_number": "83",
+      "section_title": "Contract not to reduce rights conferred",
+      "text": "Any agreement, whether made before or after the commencement of this Act, between a consumer and a trader or service provider, shall be void if, and in so far as, it is inconsistent with the provisions of this Act.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["void agreement", "contract terms", "consumer rights waiver"]
+    },
+    {
+      "citation_id": "CPA-2019-S.86",
+      "section_number": "86",
+      "section_title": "Product liability action",
+      "text": "A complainant may file a product liability action against a product manufacturer or a product seller or a product service provider, as the case may be, for any harm caused to him on account of a defective product manufactured by a product manufacturer or serviced by a product service provider or sold by a product seller.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["product liability", "defective product", "manufacturer liability"]
+    }
+  ]
+}

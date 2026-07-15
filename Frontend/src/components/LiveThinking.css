@@ -1,0 +1,85 @@
+.live {
+  border: 1px solid var(--border);
+  background: var(--bg-elev);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  max-width: 560px;
+  animation: liveIn 0.35s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+@keyframes liveIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+.live__head { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+.live__title { font-weight: 600; font-size: 0.92rem; color: var(--text); }
+
+.live__spinner {
+  width: 15px; height: 15px; border-radius: 50%;
+  border: 2px solid var(--border-strong);
+  border-top-color: var(--brand);
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.live__dots { display: inline-flex; gap: 3px; margin-left: 1px; }
+.live__dots span {
+  width: 4px; height: 4px; border-radius: 50%; background: var(--text-faint);
+  animation: blink 1.2s infinite both;
+}
+.live__dots span:nth-child(2) { animation-delay: 0.2s; }
+.live__dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes blink { 0%, 80%, 100% { opacity: 0.25; } 40% { opacity: 1; } }
+
+.live__bar {
+  height: 3px; border-radius: 3px; background: var(--border);
+  overflow: hidden; margin-bottom: 12px;
+}
+.live__bar-fill {
+  display: block; height: 100%; background: var(--brand);
+  border-radius: 3px; transition: width 0.15s linear;
+}
+
+.live__stages { list-style: none; margin: 0; padding: 0; }
+.live__stage {
+  display: flex; gap: 10px; align-items: flex-start;
+  padding: 5px 0; opacity: 0.5;
+  transition: opacity 0.35s ease;
+}
+.live__stage--active, .live__stage--done { opacity: 1; }
+
+.live__marker {
+  flex: 0 0 auto; width: 18px; height: 18px; margin-top: 1px;
+  display: grid; place-items: center; color: var(--brand);
+}
+.live__idle {
+  width: 8px; height: 8px; border-radius: 50%;
+  border: 1.5px solid var(--border-strong);
+}
+.live__pulse {
+  width: 10px; height: 10px; border-radius: 50%; background: var(--brand);
+  box-shadow: 0 0 0 0 color-mix(in srgb, var(--brand) 55%, transparent);
+  animation: pulse 1.1s infinite;
+}
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--brand) 55%, transparent); }
+  70% { box-shadow: 0 0 0 7px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
+.live__stage-text { display: flex; flex-direction: column; gap: 1px; }
+.live__stage-label {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.8rem; font-weight: 600; color: var(--brand);
+}
+.live__stage--pending .live__stage-label { color: var(--text-muted); }
+.live__stage-role { font-size: 0.8rem; color: var(--text-muted); }
+
+.live__caption {
+  margin: 10px 0 0; font-size: 0.8rem; color: var(--text-faint);
+  min-height: 1.1em; animation: fade 0.4s ease both;
+}
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .live, .live__caption { animation: none; }
+  .live__spinner { animation-duration: 1.4s; }
+  .live__pulse, .live__dots span { animation: none; }
+}

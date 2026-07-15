@@ -1,0 +1,101 @@
+{
+  "act_id": "bns-2023",
+  "act_name": "Bharatiya Nyaya Sanhita, 2023",
+  "jurisdiction": "India",
+  "year": 2023,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/20062",
+  "repealed": false,
+  "summary": "India's principal penal code in force from 1 July 2024, replacing the Indian Penal Code 1860; defines and punishes offences such as theft, criminal breach of trust, cheating and criminal intimidation that citizens commonly encounter.",
+  "sections": [
+    {
+      "citation_id": "BNS-2023-S.303(1)",
+      "section_number": "303(1)",
+      "section_title": "Theft - definition",
+      "text": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["theft", "movable property", "dishonest taking", "without consent"]
+    },
+    {
+      "citation_id": "BNS-2023-S.303(2)",
+      "section_number": "303(2)",
+      "section_title": "Punishment for theft",
+      "text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and if the person has been convicted previously of an offence under this section, shall be punished, on a subsequent conviction, with rigorous imprisonment for a term which may extend to five years and shall also be liable to fine.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["theft punishment", "imprisonment", "repeat offender", "rigorous imprisonment"]
+    },
+    {
+      "citation_id": "BNS-2023-S.316(1)",
+      "section_number": "316(1)",
+      "section_title": "Criminal breach of trust - definition",
+      "text": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["criminal breach of trust", "entrustment", "misappropriation", "dominion over property"]
+    },
+    {
+      "citation_id": "BNS-2023-S.316(2)",
+      "section_number": "316(2)",
+      "section_title": "Punishment for criminal breach of trust",
+      "text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["criminal breach of trust punishment", "imprisonment", "fine"]
+    },
+    {
+      "citation_id": "BNS-2023-S.318(1)",
+      "section_number": "318(1)",
+      "section_title": "Cheating - definition",
+      "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat. Explanation - A dishonest concealment of facts is a deception within the meaning of this section.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["cheating", "deception", "fraudulent inducement", "concealment of facts"]
+    },
+    {
+      "citation_id": "BNS-2023-S.318(4)",
+      "section_number": "318(4)",
+      "section_title": "Cheating and dishonestly inducing delivery of property",
+      "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["cheating", "inducing delivery of property", "valuable security", "punishment"]
+    },
+    {
+      "citation_id": "BNS-2023-S.351(1)",
+      "section_number": "351(1)",
+      "section_title": "Criminal intimidation - definition",
+      "text": "Whoever threatens another by any means, with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation. Explanation - A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["criminal intimidation", "threat", "alarm", "coercion"]
+    },
+    {
+      "citation_id": "BNS-2023-S.351(2)",
+      "section_number": "351(2)",
+      "section_title": "Punishment for criminal intimidation",
+      "text": "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["criminal intimidation punishment", "imprisonment", "fine"]
+    },
+    {
+      "citation_id": "BNS-2023-S.351(3)",
+      "section_number": "351(3)",
+      "section_title": "Aggravated criminal intimidation",
+      "text": "Whoever commits the offence of criminal intimidation by threatening to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["aggravated criminal intimidation", "threat to kill", "threat of fire", "imputing unchastity"]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+/* Nyayra theme tokens. Deep-green brand from the brief. Light + dark. */
+:root {
+  --brand: #0f7a5a;
+  --brand-600: #0c6a4e;
+  --brand-700: #0a5a42;
+  --brand-tint: #e7f2ee;
+  --accent: #c8873f; /* the amber the brief uses for the app surface */
+
+  --bg: #ffffff;
+  --bg-elev: #f7f8f7;
+  --bg-sidebar: #f2f4f2;
+  --surface: #ffffff;
+  --border: #e3e6e3;
+  --border-strong: #d2d7d2;
+  --text: #1c211e;
+  --text-muted: #5f6b64;
+  --text-faint: #8a938c;
+
+  --user-bubble: #eef1ef;
+  --assistant-bubble: transparent;
+
+  --radius: 12px;
+  --radius-sm: 8px;
+  --radius-lg: 16px;
+  --shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.04);
+
+  --sidebar-w: 272px;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans",
+    "Noto Sans Devanagari", "Noto Sans Tamil", "Noto Sans Bengali", sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
+}
+
+:root[data-theme='dark'] {
+  --brand: #2fa07a;
+  --brand-600: #37b088;
+  --brand-700: #43c096;
+  --brand-tint: #16261f;
+  --accent: #d69a54;
+
+  --bg: #1b1d1c;
+  --bg-elev: #232624;
+  --bg-sidebar: #171917;
+  --surface: #232624;
+  --border: #313532;
+  --border-strong: #3d423e;
+  --text: #ecefec;
+  --text-muted: #a7b0a9;
+  --text-faint: #7c857e;
+
+  --user-bubble: #2b2f2c;
+  --assistant-bubble: transparent;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.3);
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+button { font-family: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 8px; border: 2px solid transparent; background-clip: content-box; }

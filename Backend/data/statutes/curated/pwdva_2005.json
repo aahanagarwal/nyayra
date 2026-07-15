@@ -1,0 +1,101 @@
+{
+  "act_id": "pwdva-2005",
+  "act_name": "Protection of Women from Domestic Violence Act, 2005",
+  "jurisdiction": "India",
+  "year": 2005,
+  "source_url": "https://www.indiacode.nic.in/handle/123456789/1521",
+  "repealed": false,
+  "summary": "Provides civil remedies to women facing domestic violence, including protection orders, residence orders, monetary relief and custody orders; a woman facing abuse, threats, or exclusion from a shared household meets this act.",
+  "sections": [
+    {
+      "citation_id": "PWDVA-2005-S.3",
+      "section_number": "3",
+      "section_title": "Definition of domestic violence",
+      "text": "For the purposes of this Act, any act, omission or commission or conduct of the respondent shall constitute domestic violence in case it (a) harms or injures or endangers the health, safety, life, limb or well-being, whether mental or physical, of the aggrieved person or tends to do so and includes causing physical abuse, sexual abuse, verbal and emotional abuse and economic abuse; or (b) harasses, harms, injures or endangers the aggrieved person with a view to coerce her or any other person related to her to meet any unlawful demand for any dowry or other property or valuable security; or (c) has the effect of threatening the aggrieved person or any person related to her by any conduct; or (d) otherwise injures or causes harm, whether physical or mental, to the aggrieved person.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["domestic violence", "physical abuse", "emotional abuse", "economic abuse", "dowry harassment"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.12",
+      "section_number": "12",
+      "section_title": "Application to Magistrate",
+      "text": "An aggrieved person or a Protection Officer or any other person on behalf of the aggrieved person may present an application to the Magistrate seeking one or more reliefs under this Act. The Magistrate shall, before passing any order, take into consideration any domestic incident report received from the Protection Officer or the service provider.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["application", "magistrate", "aggrieved person", "protection officer", "domestic incident report"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.17",
+      "section_number": "17",
+      "section_title": "Right to reside in a shared household",
+      "text": "Notwithstanding anything contained in any other law for the time being in force, every woman in a domestic relationship shall have the right to reside in the shared household, whether or not she has any right, title or beneficial interest in the same. The aggrieved person shall not be evicted or excluded from the shared household or any part of it by the respondent save in accordance with the procedure established by law.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["shared household", "right to reside", "eviction", "domestic relationship"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.18",
+      "section_number": "18",
+      "section_title": "Protection orders",
+      "text": "The Magistrate may, after giving the aggrieved person and the respondent an opportunity of being heard, and on being prima facie satisfied that domestic violence has taken place or is likely to take place, pass a protection order in favour of the aggrieved person and prohibit the respondent from committing any act of domestic violence, aiding or abetting the commission of acts of domestic violence, entering the place of employment or school of the aggrieved person, attempting to communicate with the aggrieved person, alienating any assets, or causing violence to the aggrieved person's relatives.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["protection order", "restraining order", "no contact", "domestic violence prohibition"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.19",
+      "section_number": "19",
+      "section_title": "Residence orders",
+      "text": "The Magistrate may, on being satisfied that domestic violence has taken place, pass a residence order restraining the respondent from dispossessing or in any manner disturbing the possession of the aggrieved person from the shared household, directing the respondent to remove himself from the shared household, restraining the respondent or his relatives from entering any portion of the shared household in which the aggrieved person resides, or directing the respondent to secure same-level alternate accommodation for the aggrieved person or to pay rent for the same.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["residence order", "shared household", "alternate accommodation", "dispossession"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.20",
+      "section_number": "20",
+      "section_title": "Monetary reliefs",
+      "text": "The Magistrate may direct the respondent to pay monetary relief to meet the expenses incurred and losses suffered by the aggrieved person and any child as a result of the domestic violence, including loss of earnings, medical expenses, loss caused due to destruction, damage or removal of any property, and maintenance for the aggrieved person and her children, which may be adequate, fair and reasonable and consistent with the standard of living to which the aggrieved person is accustomed.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["monetary relief", "compensation", "maintenance", "medical expenses"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.22",
+      "section_number": "22",
+      "section_title": "Compensation orders",
+      "text": "In addition to other reliefs, the Magistrate may on an application by the aggrieved person, pass an order directing the respondent to pay compensation and damages for the injuries, including mental torture and emotional distress, caused by the acts of domestic violence committed by the respondent.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["compensation", "damages", "mental torture", "emotional distress"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.23",
+      "section_number": "23",
+      "section_title": "Power to grant interim and ex parte orders",
+      "text": "In any proceeding before him under this Act, the Magistrate may pass such interim order as he deems just and proper. If the Magistrate is satisfied that an application prima facie discloses that the respondent is committing, or has committed, an act of domestic violence or that there is a likelihood that the respondent may commit an act of domestic violence, he may grant an ex parte order on the basis of the affidavit of the aggrieved person.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["interim order", "ex parte order", "urgent relief"]
+    },
+    {
+      "citation_id": "PWDVA-2005-S.31",
+      "section_number": "31",
+      "section_title": "Penalty for breach of protection order by respondent",
+      "text": "A breach of protection order, or of an interim protection order, by the respondent shall be an offence under this Act and shall be punishable with imprisonment of either description for a term which may extend to one year, or with fine which may extend to twenty thousand rupees, or with both. The offence under this section shall as far as practicable be tried by the Magistrate who had passed the order.",
+      "text_is_paraphrase": false,
+      "repealed": false,
+      "superseded_by": null,
+      "keywords": ["breach of protection order", "penalty", "imprisonment", "fine"]
+    }
+  ]
+}
